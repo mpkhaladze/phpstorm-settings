@@ -1,0 +1,14 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
+    <ignoreAction name="PHP/Inject language using PHPDoc" />
+    <ignoreAction name="CSS/Replace quotes" />
+    <ignoreAction name="PHP/Replace quotes" />
+    <ignoreAction name="PHP/Split string in two strings and concatenation" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="PHP/Split comma-separated values into multiple lines" />
+    <ignoreAction name="PHP/Swap call arguments" />
+    <ignoreAction name="XML/Rearrange tag attributes" />
+    <ignoreAction name="XML/Remove attribute" />
+  </component>
+</application>
