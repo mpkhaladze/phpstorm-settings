@@ -10,5 +10,8 @@
     <ignoreAction name="PHP/Swap call arguments" />
     <ignoreAction name="XML/Rearrange tag attributes" />
     <ignoreAction name="XML/Remove attribute" />
+    <ignoreAction name="PHP/Add PHPDoc comment" />
+    <ignoreAction name="PHP/Surround with '!empty'" />
+    <ignoreAction name="PHP/Surround with 'isset'" />
   </component>
 </application>
