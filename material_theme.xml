@@ -2,8 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="ffd866" />
-    <option name="selectedTheme" value="MONOKAI" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-2e044777:1702e3d989e:-8000" />
     <option name="version" value="4.11.5" />
   </component>
