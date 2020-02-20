@@ -4,7 +4,7 @@
     <property name="created">2020-02-20T12:54:02</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-20T16:29:33</property>
+    <property name="modified">2020-02-20T16:43:39</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -16,7 +16,7 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="5294e2" />
     <option name="CARET_ROW_COLOR" value="3e424d" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="262b33" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="cf6a4c" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
