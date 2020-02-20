@@ -1,4 +1,8 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
   <action id="Console.TableResult.CompareCells" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="GotoTest" />
