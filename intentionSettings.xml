@@ -13,5 +13,6 @@
     <ignoreAction name="PHP/Add PHPDoc comment" />
     <ignoreAction name="PHP/Surround with '!empty'" />
     <ignoreAction name="PHP/Surround with 'isset'" />
+    <ignoreAction name="VueJS/Extract Vue Component" />
   </component>
 </application>
